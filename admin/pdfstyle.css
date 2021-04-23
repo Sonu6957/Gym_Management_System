@@ -1,0 +1,49 @@
+.table {
+    position:absolute;
+    width: 100px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:150px;
+    font-size: 40px;
+    border-width: 5px;
+    background-color: #ffffff;
+    padding: .5rem .5rem;
+    }
+    td{
+    border-color:black;
+    border-width: 20px;
+    }
+    tr{
+        border-style: solid;
+        border-width: 9px;
+    }
+    .p{
+        color:green;
+        margin-left: 60;
+    }
+    th{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        position: absolute;
+        height: 130px;
+    }
+    .k{
+        margin-left:75%;
+        font-size: 20px;
+    }
+    .k1{
+        margin-left:87%;
+        margin-top:-26px;
+        font-size: 20px;
+    }
+    .contact{
+        position:absolute;
+        left:57%;
+        top:6%;
+        font-size:15px;
+    }
+    .signature{
+        margin-top:20%;
+        margin-left:80%;
+        font-size:18px;
+    }
